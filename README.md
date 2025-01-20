@@ -64,7 +64,7 @@ Modelo que almacena los detalles de una conversión, como la moneda base, la mon
 
 1. **Clona el repositorio:**
    ```bash
-   git clone <[ConversorMonedaProyecto](https://github.com/starman-ai/ConversorMonedaProyecto)>
+   git clone https://github.com/starman-ai/ConversorMonedaProyecto.git
 
 1. **Compila el proyecto:**
    ```bash
